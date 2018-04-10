@@ -1,0 +1,4 @@
+/* Hide shit from original template */
+.copyright.pull-right {
+    display: none;
+}
