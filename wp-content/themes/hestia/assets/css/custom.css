@@ -1,3 +1,13 @@
+/****************/
+/**** HEADER ****/
+/****************/
+.navbar-brand p {
+  font-weight: 900;
+  text-transform: uppercase;
+  font-family: 'Algreya', serif;
+  font-size: 22px;
+}
+
 /* Hide shit from original template */
 .copyright.pull-right {
     display: none;

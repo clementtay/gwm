@@ -8,7 +8,7 @@
  * @since Hestia 1.0
  */
 ?>
-			/** <?php do_action( 'hestia_do_footer' ); ?> */
+			 <?php do_action( 'hestia_do_footer' ); ?>
 		</div>
 	</div>
 <?php wp_footer(); ?>
